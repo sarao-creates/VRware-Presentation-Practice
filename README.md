@@ -1,5 +1,5 @@
 # VRware
-VRware is a startup based out of UNC Chapel Hill that aims to help entrepreneurs, consultants, lawyers, politicans, and other professions with presentations. 
+VRware is a virtual reality project based out of UNC Chapel Hill that aims to help entrepreneurs, consultants, lawyers, politicans, and other professionals with presentations. 
 
 Our goal is to design a Virtual Reality app that allows you to immerse yourself in a realistic environment for presentations. You'll be able to record your presentation via the headset and view analytics for your speech and body movement on our web application: vrware.tech
 
