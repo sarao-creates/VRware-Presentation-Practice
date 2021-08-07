@@ -4,7 +4,7 @@ VRware is a startup based out of UNC Chapel Hill that aims to help entrepreneurs
 Our goal is to design a Virtual Reality app that allows you to immerse yourself in a realistic environment for presentations. You'll be able to record your presentation via the headset and view analytics for your speech and body movement on our web application: vrware.tech
 
 # Demo
-[![Virtual Reality Demo](http://img.youtube.com/vi/rd9mups2e8s&ab/0.jpg)](https://www.youtube.com/watch?v=rd9mups2e8s&ab_channel=SameerRao "Video Title")
+[![Virtual Reality Demo](http://img.youtube.com/vi/rd9mups2e8s&ab_channel=SameerRao/0.jpg)](https://www.youtube.com/watch?v=rd9mups2e8s&ab_channel=SameerRao "Video Title")
 
 
 
