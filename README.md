@@ -10,7 +10,7 @@ Our goal is to design a Virtual Reality app that allows you to immerse yourself 
 VRware Demo for Carolina Collective (October 2020)
 
 
-[![VRware Demo – August 2020](http://img.youtube.com/vi/rd9mups2e8s/0.jpg)](https://www.youtube.com/watch?v=rd9mups2e8s&ab_channel=SameerRao "VRware - Carolina Collective")
+[![VRware Demo – August 2020](http://img.youtube.com/vi/n4ij2vmfreE/0.jpg)](https://www.youtube.com/watch?v=n4ij2vmfreE&ab_channel=SameerRao "VRware Demo - August 2020")
 
 
 VRware Demo – August 2020
